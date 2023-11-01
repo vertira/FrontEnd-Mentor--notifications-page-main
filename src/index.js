@@ -79,7 +79,7 @@ const timeoutNotification = (name, time) => {
 
 const Mark = new Notification(
 	"Mark Webber",
-	"assets/images/avatar-mark-webber.webp",
+	"/assets/images/avatar-mark-webber.webp",
 	"reacted to your recent post",
 	"My first tournament today!",
 	"1m ago",
