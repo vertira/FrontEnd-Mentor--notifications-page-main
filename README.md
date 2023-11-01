@@ -29,7 +29,7 @@ Users should be able to:
 ![](/design/screenshot.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://frontend-mentor-notification-page.netlify.app/)
 
 ## My process
 
