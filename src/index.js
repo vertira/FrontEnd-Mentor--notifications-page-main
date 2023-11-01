@@ -104,7 +104,7 @@ timeoutNotification(Angela, 1400);
 
 const Jacob = new Notification(
 	"Jacob Thompson",
-	"/assets/images/avatar-jacob-thompson.webp",
+	"assets/images/avatar-jacob-thompson.webp",
 	"has joined your group",
 	"Chess Club",
 	"1 day ago",
