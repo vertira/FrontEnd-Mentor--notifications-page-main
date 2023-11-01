@@ -11,8 +11,6 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -28,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/design/screenshot.png]
+![](/design/screenshot.png)
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
